@@ -2,6 +2,12 @@
 
 Triggers error if `arg` is not a string.
 
+## Example
+```
+errorIfNotString(false);
+// Error: "Input must be string"
+```
+
 ## Installation
 `npm i  error-if-not-string`
 
